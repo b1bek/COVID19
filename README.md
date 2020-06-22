@@ -1,2 +1,2 @@
 # COVID19
-Simple CLI tool for corona
+Simple CLI tool for COVID Results
